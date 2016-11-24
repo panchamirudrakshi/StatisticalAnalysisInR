@@ -1,0 +1,6 @@
+1.	Used bloxplot library to plot states of USA and analyze state level income of top 1% earners for different years.
+2.	Computation of block execution times and analysis of Monte Carlo simulation for varying no of replications using histogram and density curve plot.
+3.	Analysis of correlation and summary parameters of Happy Planet Index using scatter plot.
+4.	Monte Carlo simulation and pattern analysis of population size and accuracy by computing confidence interval and coverage probability.
+5.	Exploratory analysis of systolic blood pressure of 200 patients made by a finger method and an arm method using boxplot and QQ plot.
+6.	Used Multivariate regression technique (ANOVA) in order to analyze multiple qualitative as well as quantitative features that predict prostate cancer probability on given dataset.
